@@ -54,3 +54,7 @@ def checkbox(annotation, value):
     if val_str is not None:
         annotation.update(pdfrw.PdfDict(V=val_str, AS=val_str))
 ```
+#### task list
+- [x] test task list
+- [ ] test2
+- [ ] test3
